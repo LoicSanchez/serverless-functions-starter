@@ -1,6 +1,10 @@
-What is a serverless function?
+# Serverless
+
+## What is a serverless function?
 
 Despite the name, serverless function actually does not mean that there is no server, it simply means that someone else is responsible for maintaining it. The cloud provider will take care of that so the Front-End developer can focus on Front-End :)
+
+# Get Started
 
 Starter Project in
 https://github.com/john-smilga/serverless-functions-starter
